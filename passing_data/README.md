@@ -1,16 +1,52 @@
-# passing_data
+# ☕ Coffee Shop App - Passing Data
 
-A new Flutter project.
+A Flutter application that demonstrates **passing and returning data between screens** using Navigator.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 📸 Screenshots
 
-A few resources to get you started if this is your first Flutter project:
+### 🟢 Product List Screen
+![Coffee List](screenshots/c1.png)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### 🟢 Coffee Details Screen
+![Coffee Details](screenshots/c2.png)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### 🟢 Return Message (SnackBar)
+![Return Message](screenshots/c3.png)
+
+---
+
+## ✨ Features
+
+- Product List Screen
+- Product Details Screen
+- Passing data between screens
+- Returning data using Navigator.pop
+- Display result using SnackBar
+
+---
+
+## 🔄 Navigation Flow
+
+1. Select coffee from list
+2. Data is passed to details screen
+3. Press button to return
+4. Message is sent back
+5. SnackBar shows the result
+
+---
+
+## 🛠️ Technologies Used
+
+- Flutter
+- Dart
+- Navigator (push & pop)
+
+---
+
+## 🚀 How to Run
+
+```bash
+flutter pub get
+flutter run
