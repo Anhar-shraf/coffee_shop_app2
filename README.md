@@ -7,6 +7,17 @@ git push
 
 ---
 
+## 📸 Screenshots
+
+### 🟢 Product List Screen
+![Coffee List](screenshots/c1.png)
+
+### 🟢 Coffee Details Screen
+![Coffee Details](screenshots/c2.png)
+
+### 🟢 Return Message (SnackBar)
+![Return Message](screenshots/c3.png)
+
 ## ✨ Features
 
 - Product List Screen
