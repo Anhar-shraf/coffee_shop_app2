@@ -7,13 +7,13 @@ A Flutter application that demonstrates **passing and returning data between scr
 ## 📸 Screenshots
 
 ### 🟢 Product List Screen
-![Coffee List](./screenshots/c1.png)
+![Coffee List](screenshots/c1.png)
 
 ### 🟢 Coffee Details Screen
-![Coffee Details](./screenshots/c2.png)
+![Coffee Details](screenshots/c2.png)
 
 ### 🟢 Return Message (SnackBar)
-![Return Message](./screenshots/c3.png)
+![Return Message](screenshots/c3.png)
 
 ---
 
