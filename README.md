@@ -3,21 +3,20 @@
 A Flutter application that demonstrates **passing and returning data between screens** using `Navigator`.
 
 ---
-
 ## 📸 Screenshots
 
 ### 🟢 Product List Screen
-![Coffee List](screenshots/c1.png)
+![Product List](./screenshots/c1.png)
 
 ---
 
 ### 🟢 Coffee Details Screen
-![Coffee Details](screenshots/c2.png)
+![Details](./screenshots/c2.png)
 
 ---
 
 ### 🟢 Return Message (SnackBar)
-![Return Message](screenshots/c3.png)
+![SnackBar](./screenshots/c3.png)
 
 ---
 
