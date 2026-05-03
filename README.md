@@ -3,20 +3,24 @@
 A Flutter application that demonstrates **passing and returning data between screens** using `Navigator`.
 
 ---
-git push
-
----
 
 ## 📸 Screenshots
 
 ### 🟢 Product List Screen
 ![Coffee List](screenshots/c1.png)
 
+---
+
 ### 🟢 Coffee Details Screen
 ![Coffee Details](screenshots/c2.png)
 
+---
+
 ### 🟢 Return Message (SnackBar)
 ![Return Message](screenshots/c3.png)
+
+---
+
 ## ✨ Features
 
 - Product List Screen
@@ -29,11 +33,11 @@ git push
 
 ## 🔄 Navigation Flow
 
-1. User selects a coffee from list
-2. Data is sent to details screen
-3. User presses "Add to favorites"
-4. Message is returned to previous screen
-5. SnackBar displays confirmation
+1. User selects a coffee from list  
+2. Data is sent to details screen  
+3. User presses "Add to favorites"  
+4. Message is returned to previous screen  
+5. SnackBar displays confirmation  
 
 ---
 
